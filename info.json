@@ -1,0 +1,8 @@
+{
+    "author" : ["Sowiszcze"],
+    "install_msg" : "Thanks for adding this cogs repo! If you have any bugs, questions or suggestions, please visit <https://github.com/sowiszcze/Owl-Cogs/issues> and contact me this way!",
+    "name" : "Owl-cogs",
+    "short" : "Cogs from Sowiszcze's nest.",
+    "description" : "Specific cogs created with Pokémon GO Szczecin Discord in mind.",
+    "tags" : ["Firebase", "URL shortening"]
+}

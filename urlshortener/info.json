@@ -1,0 +1,11 @@
+{
+    "author": ["Sowiszcze"],
+    "install_msg": "",
+    "name": "UrlShortener",
+    "disabled": false,
+    "short": "Firebase URL shortener",
+    "description": "Allows users to shorten URLs using Firebase provider.",
+    "tags": ["url", "uri", "shortener", "shortening", "firebase"],
+    "requirements": [],
+    "hidden": false
+}
