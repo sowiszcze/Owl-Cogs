@@ -6,6 +6,6 @@
     "short": "Firebase URL shortener",
     "description": "Allows users to shorten URLs using Firebase provider.",
     "tags": ["url", "uri", "shortener", "shortening", "firebase"],
-    "requirements": [],
+    "requirements": ["requests", "validators"],
     "hidden": false
 }

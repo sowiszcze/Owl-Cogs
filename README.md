@@ -13,7 +13,7 @@ In order to add cogs to your instance please issue following command in Discord:
 
 | Name | Status/Version | Description (Click to see full status)
 | --- | --- | --- |
-| UrlShortener | *InDev* | <details><summary>A simple URL shortener using Firebase</summary>If you have a Firebase Dynamic Links set up, you can use this cog to shorten URLs.</details>|
+| UrlShortener | 0.1.0-alpha | <details><summary>A simple URL shortener using Firebase</summary>If you have a Firebase Dynamic Links set up, you can use this cog to shorten URLs.</details>|
 
 # Contact
 You can find me either on [Red-DiscordBot Cog Support server](https://discord.gg/GET4DVk) or my Pokémon GO community mentioned below "hidden" as `sowa#0381`.
