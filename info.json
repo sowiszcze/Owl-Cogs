@@ -4,5 +4,6 @@
     "name" : "Owl-cogs",
     "short" : "Cogs from Sowiszcze's nest.",
     "description" : "Specific cogs created with Pokémon GO Szczecin Discord in mind.",
-    "tags" : ["Firebase", "URL shortening"]
+    "tags" : ["Firebase", "URL shortening"],
+    "end_user_data_statement": "This cog does not store any user data by itself. Users wanting to remove links from Firebase should contact Support via <https://firebase.google.com/support>."
 }
